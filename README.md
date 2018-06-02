@@ -1,2 +1,3 @@
 # webpack-serve-bug-demo
-Demo for a bug report
+
+`yarn start` to view the demo.
